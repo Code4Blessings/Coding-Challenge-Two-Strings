@@ -28,5 +28,5 @@ const twoStrings = (s1, s2) => {
     return "NO";
 }
 
-console.log(twoStrings('can', 'land'))
+console.log(twoStrings('robin', 'bird'))
 
